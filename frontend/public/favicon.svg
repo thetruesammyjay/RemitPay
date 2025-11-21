@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40" fill="none" role="img" aria-label="RemitEasy Icon">
+  <defs>
+    <linearGradient id="remitIconGradient" x1="0%" y1="50%" x2="100%" y2="50%">
+      <stop offset="0%" stopColor="#9945FF" />
+      <stop offset="100%" stopColor="#14F195" />
+    </linearGradient>
+  </defs>
+  
+  <path d="M22.5 12L30.5 20L22.5 28M9.5 20H30.5" stroke="url(#remitIconGradient)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M16 12C16 12 12 14 12 20C12 26 16 28 16 28" stroke="url(#remitIconGradient)" stroke-width="4" stroke-linecap="round" opacity="0.6"/>
+</svg>

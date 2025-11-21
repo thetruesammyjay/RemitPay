@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 40" fill="none" role="img" aria-label="RemitEasy Logo">
+  <defs>
+    <linearGradient id="remitGradient" x1="0%" y1="50%" x2="100%" y2="50%">
+      <stop offset="0%" stopColor="#9945FF" />
+      <stop offset="100%" stopColor="#14F195" />
+    </linearGradient>
+  </defs>
+
+  <g>
+    <path d="M22.5 12L30.5 20L22.5 28M9.5 20H30.5" stroke="url(#remitGradient)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M16 12C16 12 12 14 12 20C12 26 16 28 16 28" stroke="url(#remitGradient)" stroke-width="4" stroke-linecap="round" opacity="0.6"/>
+  </g>
+
+  <g transform="translate(45, 28)">
+    <text font-family="ui-sans-serif, system-ui, sans-serif" font-size="24" font-weight="700" fill="#FFFFFF" letter-spacing="-0.5">Remit</text>
+    <text x="68" font-family="ui-sans-serif, system-ui, sans-serif" font-size="24" font-weight="300" fill="#14F195" letter-spacing="-0.5">Easy</text>
+  </g>
+</svg>
