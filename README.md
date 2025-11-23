@@ -720,7 +720,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Team
 
-- **Samuel Justin Ifiezibe [Your Last Name]** - Full-Stack Developer
+- **Samuel Justin Ifiezibe ** - Full-Stack Developer
   - GitHub: [@thetruesammyjay]
   - Email: sammyjayisthename@gmail.com
 
@@ -737,5 +737,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 **Built for MBC 25 Hackathon** | December 2025
+
 
 For questions or support, please open an issue or contact the team directly.
