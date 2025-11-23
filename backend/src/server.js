@@ -8,7 +8,7 @@ const authRoutes = require('./routes/auth');
 const transactionRoutes = require('./routes/transactions');
 const walletRoutes = require('./routes/wallets');
 const userRoutes = require('./routes/users');
-const errorHandler = require('./middleware/errorHandler');
+const { errorHandler } = require('./middleware/errorHandler');
 
 const app = express();
 const PORT = process.env.PORT || 5000;
@@ -42,5 +42,6 @@ app.use((req, res) => {
 app.listen(PORT, () => {
   console.log(`RemitEasy backend running on port ${PORT}`);
 });
+
 
 module.exports = app;
